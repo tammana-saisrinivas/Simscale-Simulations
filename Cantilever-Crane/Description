@@ -1,0 +1,3 @@
+### 1. Crane Stress Analysis
+
+This project focuses on performing a structural stress analysis of a cantilever crane using SimScale's Finite Element Method (FEM) module. Following a guided tutorial, I defined the geometry, applied steel as the material, and set up appropriate boundary conditions with gravity and a concentrated load at the free end. The simulation helped visualize how the structure deforms under load, with the highest displacement observed near the cantilever tip—approximately 4 mm. This hands-on exercise provided a strong foundation in meshing, setting up simulations, and interpreting post-processing results.
