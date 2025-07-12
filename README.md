@@ -10,7 +10,7 @@ This repository showcases my simulation work using [SimScale](https://www.simsca
 - Load: Gravity + Point Load on Cantilever
 - Result: Max displacement ~4 mm
 - ✅ Completed with tutorial reference and own setup
-- 📍 [View Project Folder](./crane-stress-analysis)
+- 📍 [View Project Folder](Cantilever-Crane)
 
 ### 2. CFD Analysis (Coming Soon)
 - Tool: SimScale (CFD module)
