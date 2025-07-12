@@ -11,6 +11,8 @@ This repository showcases my simulation work using [SimScale](https://www.simsca
 - Result: Max displacement ~4 mm
 - ✅ Completed with tutorial reference and own setup
 - 📍 [View Project Folder](Cantilever-Crane)
+- **📷 Final Result Media:**  
+  ![StressImage](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/WhatsApp%20Image%202025-05-13%20at%2019.46.35.jpeg)
 
 ### 2. CFD Analysis (Coming Soon)
 - Tool: SimScale (CFD module)
