@@ -1,0 +1,5 @@
+### 2. Pipe Junction Flow CFD Simulation
+
+This project focuses on performing a Computational Fluid Dynamics (CFD) simulation of incompressible water flow through a pipe junction using SimScale. The geometry was set up with defined **boundary conditions**, including a velocity inlet and a pressure outlet, to replicate realistic flow behavior.  
+
+The simulation allowed visualization of **velocity vectors** and revealed regions of **flow re-circulation** near the junction, highlighting potential design inefficiencies in pipe layouts. This exercise provided hands-on experience in setting up boundary conditions, running CFD simulations, and analyzing post-processing results to better understand fluid flow patterns.
