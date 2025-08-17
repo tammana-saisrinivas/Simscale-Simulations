@@ -14,9 +14,13 @@ This repository showcases my simulation work using [SimScale](https://www.simsca
 - **📷 Final Result Media:**  
   ![StressImage](https://raw.githubusercontent.com/tammana-saisrinivas/Simscale-Simulations/main/Cantilever-Crane/Crane%20Stress.png)
 
-### 2. CFD Analysis (Coming Soon)
+### 2. Pipe Junction Flow Analysis
 - Tool: SimScale (CFD module)
-- Fluid Flow around an airfoil (planned)
+- Fluid: Incompressible Water
+- Setup: Velocity Inlet + Pressure Outlet
+- Result: Flow visualization with clear re-circulation zones near junction
+- ✅ Completed as first CFD simulation project
+- 📍 [View Project Folder](Pipe-Junction-Flow-Analysis)
 
 ---
 
