@@ -21,6 +21,14 @@ This repository showcases my simulation work using [SimScale](https://www.simsca
 - Result: Flow visualization with clear re-circulation zones near junction
 - ✅ Completed as first CFD simulation project
 - 📍 [View Project Folder](Pipe-Junction-Flow-Analysis)
+  
+### 3. Flow Around a Aircraft Wing
+- Tool: SimScale (CFD module)
+- Fluid: Incompressible Air
+- Setup: Velocity Inlet + Pressure Outlet
+- Result: Flow visualization with clear re-circulation zones near junction
+- ✅ Completed as first CFD simulation project
+- 📍 [View Project Folder](Pipe-Junction-Flow-Analysis)
 
 ---
 
